@@ -1,0 +1,8 @@
+2026-06-12 10:15:20 | INFO | MARKET ORDER REQUEST
+2026-06-12 10:15:21 | INFO | Symbol=BTCUSDT Side=BUY Qty=0.001
+2026-06-12 10:15:22 | INFO | Order Status=FILLED
+
+2026-06-12 10:20:10 | INFO | LIMIT ORDER REQUEST
+2026-06-12 10:20:11 | INFO | Symbol=BTCUSDT Side=SELL Qty=0.001 Price=50000
+2026-06-12 10:20:12 | INFO | Order Status=NEW2026-06-12 22:00:53,372 | ERROR | Binance API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-12 22:03:09,317 | ERROR | Binance API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
